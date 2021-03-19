@@ -17,4 +17,4 @@ No footer, tem informações do nome e email para contato.
 ### Estilização CSS
 Foi usado tons de vermelho para ser semelhante a logo da escola. Usei o box-shadow, para dar um "charme" a pagina.
 
-###Concluido!!!
+### Concluido!!!
