@@ -1,0 +1,14 @@
+body,html{
+    margin: 0;
+}
+
+footer{
+    margin: 0;
+    background-color: #c22222;
+    height: 12vh;
+    display: flex;
+    justify-content: center;
+    color: rgb(8, 8, 8);
+    
+}
+
