@@ -1,6 +1,6 @@
 # App SENAI
 
-App sobre cinco cursos do SENAI. A página foi criada com o React.js.
+App sobre cinco cursos do SENAI. A página foi criada com o node.js.
 
 ## Header
 ![image](https://user-images.githubusercontent.com/71889111/111713861-2a553600-882f-11eb-8b5b-dd3d37bce396.png)
