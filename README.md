@@ -15,7 +15,7 @@ A home da página, apresenta três cursos da escola SENAI, informações sobre e
 No footer, tem informações do nome e email para contato. 
 
 ### Estilização CSS
-Foi usado tons de vermelho para ser semelhante a logo da escola. Usei o box-shadow, para dar um "charme" a pagina.
+Foi usado tons de vermelho para ser semelhante a logo da escola. Usei o box-shadow, para dar um "charme" a página.
 
-### Concluido!!!
-![image](https://user-images.githubusercontent.com/71889111/111714429-6210ad80-8830-11eb-988c-5c83c8c4a2da.png)
+### ✅ Concluido!!!
+
